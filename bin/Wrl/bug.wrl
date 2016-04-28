@@ -6,7 +6,7 @@ Shape {
 	appearance Appearance {
 		material Material { }
 		texture ImageTexture {
-			url "..\Wrl\Imagens\crepusculo.jpg"
+			url "..\Wrl\Imagens\bug.jpg"
 		}
 	}
 	geometry Box { }
