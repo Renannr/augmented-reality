@@ -1,0 +1,13 @@
+#VRML V2.0 utf8
+# The VRML 2.0 Sourcebook
+# Copyright [1997] By
+# Andrea L. Ames, David R. Nadeau, and John L. Moreland
+Shape {
+	appearance Appearance {
+		material Material { }
+		texture ImageTexture {
+			url "..\Wrl\Imagens\mouse1.jpg"
+		}
+	}
+	geometry Box { }
+}
