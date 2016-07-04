@@ -9,5 +9,5 @@ Shape {
 			url "..\Wrl\Imagens\hp7.jpg"
 		}
 	}
-	geometry Sphere { }
+	geometry Box { }
 }

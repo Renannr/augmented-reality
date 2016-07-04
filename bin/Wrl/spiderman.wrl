@@ -9,5 +9,5 @@ Shape {
 			url "..\Wrl\Imagens\lalala.jpg"
 		}
 	}
-	geometry box { }
+	geometry Box { }
 }
